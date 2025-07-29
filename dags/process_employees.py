@@ -3,7 +3,7 @@ import pendulum
 import os
 
 import requests
-from airflow.sdk import dag, task
+from airflow import dag, task
 from airflow.providers.postgres.hooks.postgres import PostgresHook
 from airflow.providers.common.sql.operators.sql import SQLExecuteQueryOperator
 

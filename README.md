@@ -5,7 +5,7 @@ https://github.com/VidyaKanch/mwaa_repo.git
 
 Project Title:   Designed and implemented an ETL pipeline using Amazon MWAA to automate data ingestion and transformation processes.
 
-
+![End to End Architecture](project_architecture_diagram.png)
 
 Description: 
 
